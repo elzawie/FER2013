@@ -1,1 +1,11 @@
-This repository is my postgraduate project. The main goal was to build a Convolutional Neural Network(CNN) in Python using Tensorflow and Keras able to recognize facial expressions - 7 different emotions. Finally I built a model based on images from Kaggle's Facial Expression Recognition competition which took place in 2013. Model available in this repository achieves 67.59% accuracy on the final testset, which would be an equivalent of the 5th place. 
+This repository is my postgraduate project. The main goal was to build a Convolutional Neural Network(CNN) in Python using Tensorflow and Keras able to recognize facial expressions - 7 different emotions. Finally I built a model based on images from Kaggle's Facial Expression Recognition competition which took place in 2013. Code available in this repository allows you to train a CNN model which achieves 67.59% accuracy on the final testset, which would be an equivalent of the 5th place. 
+
+
+Dataset is available under the below location:
+
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+
+Trained model can be downloaded from my Google Drive:
+
+https://drive.google.com/open?id=1wwfge4lSaWPNyZF9D9xP1uH9ZefzYHyv
